@@ -136,15 +136,34 @@ Gemini CLI est distribué sous licence open source (Apache 2.0).
 
 ## Sources
 
-```text
-[1] Gemini CLI - L'IA de Google directement dans votre terminal <https://korben.info/gemini-cli-google-terminal-ia.html>
-[2] Gemini CLI: A comprehensive guide to understanding, installing ... <https://www.reddit.com/r/GoogleGeminiAI/comments/1lkol0m/gemini_cli_a_comprehensive_guide_to_understanding/>
-[3] Free Gemini 2.5 Pro Access + 1000 Daily Requests <https://apidog.com/blog/gemini-cli-setup-guide/>
-[4] Google Gemini/gemini-cli: An open-source AI agent that ... <https://github.com/google-gemini/gemini-cli>
-[5] Google Gemini CLI Tutorial: How to Install and Use It (With ... <https://dev.to/auden/google-gemini-cli-tutorial-how-to-install-and-use-it-with-images-4phb>
-[6] Google dévoile Gemini CLI : l'IA dans votre terminal <https://www.it-connect.fr/google-devoile-gemini-cli-une-ia-gratuite-directement-dans-votre-terminal/>
-[7] Gemini CLI: your open-source AI agent <https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/>
-[8] Gemini CLI - How to Install, Setup and Use Tutorial <https://www.youtube.com/watch?v=6izVe1KtW_c>
-[9] Google releases Gemini CLI with free Gemini 2.5 Pro <https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/>
-[10] Gemini CLI brings Google's AI agent to your terminal for free <https://9to5google.com/2025/06/25/google-gemini-cli/>
-```
+## Sources
+
+1. Gemini CLI - L'IA de Google directement dans votre terminal  
+   <https://korben.info/gemini-cli-google-terminal-ia.html>
+
+2. Gemini CLI: A comprehensive guide to understanding, installing ...  
+   <https://www.reddit.com/r/GoogleGeminiAI/comments/1lkol0m/gemini_cli_a_comprehensive_guide_to_understanding/>
+
+3. Free Gemini 2.5 Pro Access + 1000 Daily Requests  
+   <https://apidog.com/blog/gemini-cli-setup-guide/>
+
+4. Google Gemini/gemini-cli: An open-source AI agent  
+   <https://github.com/google-gemini/gemini-cli>
+
+5. Google Gemini CLI Tutorial: How to Install and Use It (With ...)  
+   <https://dev.to/auden/google-gemini-cli-tutorial-how-to-install-and-use-it-with-images-4phb>
+
+6. Google dévoile Gemini CLI : l'IA dans votre terminal  
+   <https://www.it-connect.fr/google-devoile-gemini-cli-une-ia-gratuite-directement-dans-votre-terminal/>
+
+7. Gemini CLI: your open-source AI agent  
+   <https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/>
+
+8. Gemini CLI - How to Install, Setup and Use Tutorial  
+   <https://www.youtube.com/watch?v=6izVe1KtW_c>
+
+9. Google releases Gemini CLI with free Gemini 2.5 Pro  
+   <https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/>
+
+10. Gemini CLI brings Google's AI agent to your terminal for free  
+   <https://9to5google.com/2025/06/25/google-gemini-cli/>
