@@ -136,8 +136,6 @@ Gemini CLI est distribué sous licence open source (Apache 2.0).
 
 ## Sources
 
-## Sources
-
 1. Gemini CLI - L'IA de Google directement dans votre terminal  
    <https://korben.info/gemini-cli-google-terminal-ia.html>
 
